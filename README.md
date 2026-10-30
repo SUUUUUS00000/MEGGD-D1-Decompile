@@ -171,7 +171,6 @@ end
 # Restored *Dex.lua*:
 [Dex.lua](https://raw.githubusercontent.com/SUUUUUS00000/MEGGD-D1-Decompile/refs/heads/main/Dex.lua)
 
----
 
 # Refurbished *Infinity Yield*:
 [Infinity-Yield.lua](https://raw.githubusercontent.com/SUUUUUS00000/MEGGD-D1-Decompile/refs/heads/main/Infinity-Yield.lua)
