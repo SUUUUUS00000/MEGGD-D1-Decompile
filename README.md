@@ -1,10 +1,10 @@
 ## MEGGD-D1
-The script is currently in beta testing and is not available to the public.
+- The script is currently in beta testing and is not available to the public.
 But it will be released at an indefinite date.
-The project will not be released as open source, I originally planned to create it closed but publicly available for everyone after release.
+- The project will not be released as open source, I originally planned to create it closed but publicly available for everyone after release.
 
 ## Possibilities
-The decompiler was tested on the following scripts: **Adonis**, **Dex**, **Infinity Yield**.
+- The decompiler was tested on the following scripts: **Adonis**, **Dex**, **Infinity Yield**.
 Several recovered files:
 [Anti.lua](https://raw.githubusercontent.com/SUUUUUS00000/MEGGD-D1-Decompile/refs/heads/main/Anti.lua)
 
@@ -414,4 +414,4 @@ end
 **Original *Infinity-Yield.lua***
 [Infinity-Yield-orig.lua](https://raw.githubusercontent.com/SUUUUUS00000/MEGGD-D1-Decompile/refs/heads/main/Infinity-Yield-orig.lua)
 
-- `>` Information about the decompiler will gradually increase as the release date approaches. (MEGGD)
+- Information about the decompiler will gradually increase as the release date approaches. (MEGGD)
