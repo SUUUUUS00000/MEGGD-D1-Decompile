@@ -413,3 +413,5 @@ end
 
 **Original *Infinity-Yield.lua***
 [Infinity-Yield-orig.lua](https://raw.githubusercontent.com/SUUUUUS00000/MEGGD-D1-Decompile/refs/heads/main/Infinity-Yield-orig.lua)
+
+- `>` Information about the decompiler will gradually increase as the release date approaches. (MEGGD)
