@@ -415,4 +415,4 @@ end
 [Infinity-Yield-orig.lua](https://raw.githubusercontent.com/SUUUUUS00000/MEGGD-D1-Decompile/refs/heads/main/Infinity-Yield-orig.lua)
 
 - Information about the decompiler will gradually increase as the release date approaches.
-- These are *beta tests*, and it will be fully completed on the release date and produce high-quality results. (MEGGD)
+- These are **beta tests**, and it will be fully completed on the release date and produce high-quality results. (MEGGD)
