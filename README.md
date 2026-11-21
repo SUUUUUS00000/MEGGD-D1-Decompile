@@ -1,7 +1,7 @@
 ## MEGGD-D1
 - The script is currently in beta testing and is not available to the public.
-But it will be released at an indefinite date.
 - The project will not be released as open source, I originally planned to create it closed but publicly available for everyone after release.
+- [Update 21.11.26] At the moment, the project produces higher quality results compared to the previous ones, but it can produce slightly different but independent results in working with the original. Work is ongoing, the release date is in the next 2-3 months.
 
 ## Possibilities
 - The decompiler was tested on the following scripts: **Adonis**, **Dex**, **Infinity Yield**.
